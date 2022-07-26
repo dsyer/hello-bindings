@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "hello-bindings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "author": "Dave Syer",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@nebhale/service-bindings": "^1.1.0"
+  }
+}
